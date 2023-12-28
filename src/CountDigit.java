@@ -21,5 +21,6 @@ public class CountDigit {
     static int solution2(int a){
         String s = Integer.toString(a);
         return s.length();
+
     }
 }
