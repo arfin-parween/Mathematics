@@ -1,4 +1,5 @@
-| Left-aligned | Center-aligned | Right-aligned |
+| Lecture | Video Link | Video PDF |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| First Program in JAVA   | git status     | git status    |
+| Max of Numbers     | git diff       | git diff      |
+| Print Last Digit of a number in JAVA     | git diff       | git diff      |
