@@ -1,3 +1,20 @@
+
+# Hey There!
+
+This Repository contains basic mathematics problem programs in java. 
+If you are a beginner and looking to improve your coding skills or an experienced developer interested in exploring different concepts, this collection has something for you.
+
+
+
+
+
+### Please SUBSCRIBE to my Youtube Channel
+
+
+
+
+
+
 | Lectures | Video Link | Video PDF |
 | :---         |     :---:      |          ---: |
 | 1) First Program in JAVA   | <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> <img align="center" src="https://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" alt="start practicing"  height="40" width="150" /> </a> <br>    | <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> <img align="center" src="https://toppng.com/uploads/preview/pdf-icon-11549528510ilxx4eex38.png" alt="start practicing"  height="40" width="65" /> </a> <br>    |
